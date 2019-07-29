@@ -1,0 +1,48 @@
+body{
+  background-image: url(/Users/apple/Desktop/audio_mini_project/assets/body_img2.gif);
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
+
+#titletext{
+  background-image: url(/Users/apple/Desktop/audio_mini_project/assets/title_img3.gif);
+  background-repeat: repeat;
+  background-size: 100%;
+  color: white;
+  font-size: 50px;
+  font-family: 'Shadows Into Light', cursive;
+  border: 1px solid;
+  margin-left: 350px;
+  margin-right: 350px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  display: flex;
+  justify-content: center;
+}
+
+p{
+  font-size: 20px;
+  font-family: 'Dancing Script', cursive;
+  background-color: white;
+  border: 1px solid;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.images{
+  border: 1px solid;
+  margin-left: 75px;
+  margin-right: 75px;
+  display: flex;
+  justify-content: center;
+
+}
+
+img{
+  height: 100px;
+  padding: 25px;
+}
